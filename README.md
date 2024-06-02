@@ -9,3 +9,5 @@ Group Project 2 at Wild Code School (8 weeks)
 • Streamlit as interface for the recommendation system
 
 The files data_clean.py and data_clean_fr.py create all the necessary csv files that other codefiles use.
+The files starting with tableau_ create all the csv files for the dashboard, the .jpg files are screenshots of the tableau dashboard.
+The files data_recommandations_1.ipynb and and data_recommandations_2.ipynb create all the necessary csv files that the recommandation system uses.
