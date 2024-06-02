@@ -7,3 +7,5 @@ Group Project 2 at Wild Code School (8 weeks)
 • Data visualization in Tableau
 • Machine Learning (NLP) for a movie recommendation
 • Streamlit as interface for the recommendation system
+
+The files data_clean.py and data_clean_fr.py create all the necessary csv files that other codefiles use.
