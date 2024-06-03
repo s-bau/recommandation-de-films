@@ -1,4 +1,4 @@
-Creation of a Python application containing a movie recommendation system and a dashboard on film characteristics for a movie theater
+Creation of a Python application containing a movie recommendation system and a dashboard on film characteristics
 
 Group Project 2 at Wild Code School (8 weeks)
 
