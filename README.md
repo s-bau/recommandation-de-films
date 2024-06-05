@@ -12,7 +12,7 @@ Group Project 2 at Wild Code School (8 weeks)
 
 ## Data preparation
 
-The folder **data** contains python code that will create all the necessary csv files that other codefiles use.
+The folder **data** contains python code that will create all the necessary csv files that other codefiles use. The code accesses data from **imdb**. In addition, a csv file with data from **tmdb** is necessary to run the code (the file is too large to save on this repository).
 
 ## Dashboard (Tableau)
 
