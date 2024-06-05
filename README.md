@@ -18,6 +18,10 @@ The folder **data** contains python code that will create all the necessary csv 
 
 The files starting with **dashboard_** create all the csv files for the dashboard. **images** contains screenshots of the dashboard, which is also accessible on [public.tableau.com](https://public.tableau.com/app/profile/sophie.baumann5050/viz/Filmrecommendations/Gnral).
 
+<img src=images/tableau_1.jpg>
+<img src=images/tableau_2.jpg>
+<img src=images/tableau_3.jpg>
+
 ## Recommendation system
 
 After running the code in the **data** folder, the file **recommandation_nlp_1.py** creates a (large) numpy array for the NLP recommendation system that can be tested with the file **recommandation_nlp_2.py**.
