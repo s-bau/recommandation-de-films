@@ -16,7 +16,7 @@ The folder **data** contains python code that will create all the necessary csv 
 
 ## Dashboard (Tableau)
 
-The files starting with **dashboard_** create all the csv files for the dashboard. **images** contains screenshots of the dashboard, which is also accessible on [public.tableau.com](https://public.tableau.com/app/profile/sophie.baumann5050/viz/Filmrecommendations/Gnral).
+The files starting with **dashboard_** create all the csv files for the dashboard. **images** contains screenshots of the dashboard, which is also accessible at [public.tableau.com](https://public.tableau.com/app/profile/sophie.baumann5050/viz/Filmrecommendations/Gnral).
 
 <img src=images/tableau_1.jpg>
 <img src=images/tableau_2.jpg>
